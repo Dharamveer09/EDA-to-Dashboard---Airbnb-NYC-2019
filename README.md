@@ -1,5 +1,6 @@
-Airbnb Booking Analysis
-This project involves performing an Exploratory Data Analysis (EDA) and building a dashboard using the Airbnb hotel data. The goal is to provide insights for the management and stakeholders that will drive business growth by analyzing booking patterns, prices, reviews, neighborhood preferences, and room types.
+**Airbnb Booking Analysis**
+
+This project involves performing an Exploratory Data Analysis (EDA) and building a dashboard using the Airbnb hotel data. The goal is to provide insights for the management and stakeholders that will drive business growth by analyzing booking patterns, prices, reviews, neighbourhood preferences, and room types.
 
 Project Overview
 The Airbnb Booking Analysis project aims to help both guests and hosts improve their decision-making processes. Guests can make more informed choices regarding neighborhood selection, room types, and prices, while hosts can optimize their listings and offerings based on data insights.
