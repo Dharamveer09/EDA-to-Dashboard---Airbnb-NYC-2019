@@ -21,7 +21,7 @@ The dataset used in this project includes the following key features:
 **Neighborhoods: **Popular neighbourhoods with high booking rates.
 **Reviews:** Number of reviews and their average ratings.
 
-***Business Conclusion: ***
+***Business Conclusion:***
 
 Manhattan and Brooklyn have the highest demand for Airbnb rentals, as evidenced by the large number of listings in these neighborhoods. This could make them attractive areas for hosts to invest in property.
 
