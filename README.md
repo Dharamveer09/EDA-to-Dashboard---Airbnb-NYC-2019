@@ -12,16 +12,6 @@ Exploratory Data Analysis (EDA): Analysis of booking trends, prices, room types,
 Data Visualization: Creation of dashboards to visualize insights from the Airbnb data.
 Actionable Insights: Business recommendations for enhancing customer satisfaction and growing the business
 
-**Project Structure**
-
-**EDA_to_Dashboard_of_Airbnb_Hotel_Data.ipynb:** Jupyter notebook containing the EDA and dashboard creation code.
-
-**data/:** Contains the Airbnb dataset used for analysis
-
-**visualizations/:** Contains plots and dashboards created during the analysis.
-
-**README.md:** Project documentation.
-
 ****Data****
 
 The dataset used in this project includes the following key features:
